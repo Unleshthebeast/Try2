@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF: -1 tvg-name="                    ▃ ▄ ▅ ▆ ▇⭐DEUTSCHLAND ⭐ █ ▇ ▆ ▅ ▄" tvg-logo="http://obsfullhd.tv:25461/images/3099cf92172a9c16ee8dd725d89f68d6.jpg" group-title="GERMANY", ▃ ▄ ▅ ▆ ▇⭐DEUTSCHLAND ⭐ █ ▇ ▆ ▅ ▄
+#EXTINF:-1 tvg-name="                    ▃ ▄ ▅ ▆ ▇⭐DEUTSCHLAND ⭐ █ ▇ ▆ ▅ ▄" tvg-logo="http://obsfullhd.tv:25461/images/3099cf92172a9c16ee8dd725d89f68d6.jpg" group-title="GERMANY", ▃ ▄ ▅ ▆ ▇⭐DEUTSCHLAND ⭐ █ ▇ ▆ ▅ ▄
 http://obsfullhd.tv:25461/Localgermany/D7q9eDBP8ADnv2/1907
-#EXTINF: -1 tvg-name="||DE|| ORF 1 HD" group-title="GERMANY", ||DE|| ORF 1 HD
+#EXTINF:-1 tvg-name="||DE|| ORF 1 HD" group-title="GERMANY", ||DE|| ORF 1 HD
 http://obsfullhd.tv:25461/Localgermany/D7q9eDBP8ADnv2/1610
-#EXTINF: -1 tvg-name="||DE|| ORF 2 HD" group-title="GERMANY", ||DE|| ORF 2 HD
+#EXTINF:-1 tvg-name="||DE|| ORF 2 HD" group-title="GERMANY", ||DE|| ORF 2 HD
 http://obsfullhd.tv:25461/Localgermany/D7q9eDBP8ADnv2/1609
-#EXTINF: -1 tvg-name="||DE|| ORF 3 HD" tvg-logo="http://obsfullhd.tv:25461/images/a11cc44e63e9452283d9bee14c7fa21f.png" group-title="GERMANY", ||DE|| ORF 3 HD
+#EXTINF:-1 tvg-name="||DE|| ORF 3 HD" tvg-logo="http://obsfullhd.tv:25461/images/a11cc44e63e9452283d9bee14c7fa21f.png" group-title="GERMANY", ||DE|| ORF 3 HD
 http://obsfullhd.tv:25461/Localgermany/D7q9eDBP8ADnv2/4821
-#EXTINF: -1 tvg-name="||DE|| ZDF NEO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zdf-neo-de.svg" group-title="GERMANY", ||DE|| ZDF NEO HD
+#EXTINF:-1 tvg-name="||DE|| ZDF NEO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zdf-neo-de.svg" group-title="GERMANY", ||DE|| ZDF NEO HD
 http://obsfullhd.tv:25461/Localgermany/D7q9eDBP8ADnv2/1675
-#EXTINF: -1 tvg-name="||DE|| ZDF INFO HD" tvg-logo="http://obsfullhd.tv:25461/images/ab6d6d494b3d61a40f4256b34784214d.png" group-title="GERMANY", ||DE|| ZDF INFO HD
+#EXTINF:-1 tvg-name="||DE|| ZDF INFO HD" tvg-logo="http://obsfullhd.tv:25461/images/ab6d6d494b3d61a40f4256b34784214d.png" group-title="GERMANY", ||DE|| ZDF INFO HD
 http://obsfullhd.tv:25461/Localgermany/D7q9eDBP8ADnv2/4800
 #EXTINF: -1 tvg-name="||DE|| RTL  HD" tvg-logo="http://obsfullhd.tv:25461/images/a8115d6d2508e96d866a2a0076a0c915.png" group-title="GERMANY", ||DE|| RTL  HD
 http://obsfullhd.tv:25461/Localgermany/D7q9eDBP8ADnv2/1671
